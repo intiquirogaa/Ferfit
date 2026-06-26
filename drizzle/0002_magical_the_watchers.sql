@@ -1,0 +1,1 @@
+ALTER TABLE `users` MODIFY COLUMN `openId` varchar(512) NOT NULL;

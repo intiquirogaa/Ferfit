@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782432602786,
+      "tag": "0000_spooky_weapon_omega",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1782433018135,
+      "tag": "0001_amused_meltdown",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1782435405123,
+      "tag": "0002_magical_the_watchers",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1782435445463,
+      "tag": "0003_sad_young_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1782436399305,
+      "tag": "0004_black_cannonball",
+      "breakpoints": true
+    }
+  ]
+}
